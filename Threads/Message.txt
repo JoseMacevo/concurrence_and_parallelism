@@ -1,0 +1,5 @@
+This is a DEBUG type message 
+This is a INFO type message
+This is a WARNING type message
+This is an ERROR type message
+This is a CRITICAL type message
